@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icons/New file.png</file>
+        <file>icons/Open file.png</file>
+        <file>icons/Save.png</file>
+        <file>icons/Save as.png</file>
+        <file>icons/Exit.png</file>
+        <file>icons/Angle.png</file>
+        <file>icons/Circle.png</file>
+        <file>icons/Curve.png</file>
+        <file>icons/Ellipse.png</file>
+        <file>icons/Hexagon.png</file>
+        <file>icons/Line.png</file>
+        <file>icons/Restangle.png</file>
+        <file>icons/Rounded rectangle.png</file>
+        <file>icons/Selection.png</file>
+        <file>icons/Square.png</file>
+        <file>icons/Target1.png</file>
+        <file>icons/Triangle.png</file>
+    </qresource>
+</RCC>

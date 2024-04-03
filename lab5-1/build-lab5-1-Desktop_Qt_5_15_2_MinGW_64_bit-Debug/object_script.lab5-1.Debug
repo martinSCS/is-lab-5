@@ -1,0 +1,12 @@
+debug/dwgcircle.o
+debug/dwgline.o
+debug/dwgobject.o
+debug/dwgrect.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_res.o
+debug/moc_dwgcircle.o
+debug/moc_dwgline.o
+debug/moc_dwgobject.o
+debug/moc_dwgrect.o
+debug/moc_mainwindow.o
